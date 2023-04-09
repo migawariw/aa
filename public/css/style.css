@@ -1,0 +1,29 @@
+
+html {
+	font-size: 100%;
+	font-family: 'Hiragino Sans', sans-serif;
+	line-height: 1.7;
+	letter-spacing: 1px;
+
+  }
+
+  body {
+	margin: 100;
+	background-color: #f6faff;
+	color: #6c7686;
+  }
+
+h1 ,h2, h3, h4, h5, h6{
+	font-weight: normal;
+}
+.item{
+	width: 20%;
+	float: left;
+	margin-right: 5%;
+}
+.item h2{
+	font-size: small; 
+}
+.itemimg{
+	max-width: 100%;
+}
